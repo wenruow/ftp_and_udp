@@ -9,6 +9,7 @@ To start the server:
 ```
 $python server_tcp.py <control_port> <data_port>
 ```
+
 To start the client:
 ```
 $python client_tcp.py <server_address> <control_port> <data_port>
